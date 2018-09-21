@@ -1,11 +1,12 @@
 # SDES
 
 SDES.java README
+
 Jessup Barrueco
 
-The Simplified DES (S-DES) encryption algorithm takes an 8-bit block of plaintext (example: 00101000) and a 10-bit key (example: 1100011110) and produces an 8-bit block of ciphertext as output. Similarly, the S-DES Decryption algorithm takes that 8-bit block of ciphertext and the same 10-bit key as input, producing the original 8-bit block of plaintext.
+The Simplified DES (S-DES) encryption algorithm takes an 8-bit block of plaintext (example: 00101000) and a 10-bit key (example: 1100011110) from the command line and produces an 8-bit block of ciphertext as output. Similarly, the S-DES Decryption algorithm takes that 8-bit block of ciphertext and the same 10-bit key as input, producing the original 8-bit block of plaintext.
 
-To compile this program, from the terminal execute the following commands:
+To compile and run this program, from the terminal execute the following commands:
 > javac SDES.java
 
 
