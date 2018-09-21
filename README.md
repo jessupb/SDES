@@ -7,6 +7,7 @@ The Simplified DES (S-DES) encryption algorithm takes an 8-bit block of plaintex
 
 To compile this program, from the terminal execute the following commands:
 > javac SDES.java
+then
 > java SDES
 
 The program will ask the user to input an 8-bit block of plaintext followed by a 10-bit key. Then, the encryption and decryption algorithms are performed.
